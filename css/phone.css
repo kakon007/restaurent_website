@@ -1,0 +1,57 @@
+/* navBar */
+
+.navbar {
+    flex-direction: column;
+}
+
+.navbar ul li {
+    font-size: 0.8rem;
+}
+
+
+/* home */
+
+#home {
+    height: 370px;
+    padding: 3px 37px
+}
+
+#home::before {
+    height: 480px;
+}
+
+#home p {
+    font-size: 1rem;
+}
+
+
+/* services */
+
+#services {
+    flex-direction: column;
+}
+
+
+/* partners */
+
+#partnar_section {
+    overflow: hidden;
+}
+
+
+/* contacts */
+
+.container {
+    width: 77%;
+}
+
+.container #btnOrder {
+    padding: 5px 38px;
+}
+
+
+/* utilites */
+
+.h_primary {
+    font-size: 1.5rem;
+}
